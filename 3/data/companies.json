@@ -1,0 +1,86 @@
+{
+  "KAPI": {
+    "name": "카피바이오",
+    "sector": "바이오·헬스케어",
+    "description": "새로운 진단 기술과 바이오 헬스케어 솔루션을 연구하는 기업입니다.",
+    "price": 18500,
+    "volatility": 0.020
+  },
+  "WOONG": {
+    "name": "웅에너지",
+    "sector": "에너지",
+    "description": "차세대 발전 기술과 에너지 저장 시스템을 개발하는 기업입니다.",
+    "price": 25000,
+    "volatility": 0.012
+  },
+  "YBGM": {
+    "name": "용빙게임즈",
+    "sector": "게임·엔터테인먼트",
+    "description": "온라인 게임과 디지털 엔터테인먼트 콘텐츠를 만드는 기업입니다.",
+    "price": 12000,
+    "volatility": 0.018
+  },
+  "YJFD": {
+    "name": "용진푸드",
+    "sector": "식품·유통",
+    "description": "식품 제조와 새로운 유통 서비스를 운영하는 기업입니다.",
+    "price": 8700,
+    "volatility": 0.007
+  },
+  "DBMB": {
+    "name": "두빙모빌리티",
+    "sector": "모빌리티·자동차",
+    "description": "전기 이동수단과 차세대 이동 기술을 연구하는 기업입니다.",
+    "price": 33000,
+    "volatility": 0.011
+  },
+  "WBTK": {
+    "name": "우빙테크",
+    "sector": "IT·기술",
+    "description": "인공지능과 클라우드 기반 기술 서비스를 개발하는 기업입니다.",
+    "price": 50000,
+    "volatility": 0.009
+  },
+  "HJSC": {
+    "name": "현진사이언스",
+    "sector": "과학·연구개발",
+    "description": "첨단 과학 장비와 미래 산업 연구를 수행하는 기업입니다.",
+    "price": 41000,
+    "volatility": 0.013
+  },
+  "SPLT": {
+    "name": "스페이스상추",
+    "sector": "항공·우주기술",
+    "description": "첨단 우주 기술을 연구하는 기업입니다.",
+    "price": 27500,
+    "volatility": 0.016
+  },
+  "DJRB": {
+    "name": "동준로보틱스",
+    "sector": "로봇·자동화",
+    "description": "산업용 로봇과 AI 자동화 설비를 개발하는 기업입니다.",
+    "price": 31200,
+    "volatility": 0.018
+  },
+  "JHGP": {
+    "name": "지호그린파워",
+    "sector": "신재생에너지",
+    "description": "태양광·풍력 발전과 대용량 에너지 저장 기술을 개발하는 기업입니다.",
+    "price": 24800,
+    "volatility": 0.014
+  },
+  "JWNW": {
+    "name": "재원네트웍스",
+    "sector": "통신·네트워크",
+    "description": "초고속 통신망과 안정적인 데이터 연결 솔루션을 제공하는 기업입니다.",
+    "price": 36200,
+    "volatility": 0.011
+  },
+  "JWQT": {
+    "name": "지완퀀텀",
+    "sector": "첨단과학·양자기술",
+    "description": "양자컴퓨팅과 초정밀 측정 기술을 연구하는 첨단 과학 기업입니다.",
+    "price": 45600,
+    "volatility": 0.022
+  }
+}
